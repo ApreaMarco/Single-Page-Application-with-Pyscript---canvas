@@ -1,0 +1,3 @@
+name = "Single Page Application with Pyscript - add_event_listener"
+[[fetch]]
+files = [ "py/app.py", "py/library/domdict.py" ]

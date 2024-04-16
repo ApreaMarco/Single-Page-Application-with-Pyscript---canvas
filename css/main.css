@@ -1,0 +1,32 @@
+body {
+    font-size: 16px;
+}
+
+button {
+    background-color: cadetblue;
+    border-radius: 10%;
+    margin: 10px;
+}
+
+div {
+    width: max-content;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid gainsboro;
+    box-shadow: 8px 8px 5px gray;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, white, gainsboro 40%, grey);
+    margin: 20px;
+}
+
+p {
+    width: max-content;
+    padding: 1em;
+    outline-style: dotted;
+    margin: 10px;
+}
+
+canvas {
+    border: 1px solid black;
+    margin: 10px;
+}
